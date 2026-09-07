@@ -40,7 +40,7 @@ LESSONS = {
     35: ('p7VJvEOKtEk',  'Delegation', 'MLT'),
     36: ('KzmtHJ9_VoY',  'Sustaining Strength', 'MLT'),
     37: ('BMDVWodnF-Q',  'Facing Rejection', 'SLT'),
-    38: ('afqpLETI6wE',  'Well Planned Meetings', 'SLT'),
+    38: ('A66f6LUuuZ8',  'Leaders Make Disciples', 'SLT'),
     39: ('_znpfIc48MM',  'Joseph', 'SLT'),
     40: ('5BSw2GZyMf0',  'Leading Change', 'SLT'),
     41: ('nzmvkacTuGs',  'Leaders Make Good Followers', 'SLT'),

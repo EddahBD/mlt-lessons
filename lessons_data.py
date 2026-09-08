@@ -33,7 +33,7 @@ LESSONS = {
     28: ('53sHimb4OA8',  'Acts 29 Part 3', 'MLT'),
     29: ('_a8NUvwD6yE',  'Acts 29 Part 4', 'MLT'),
     30: ('hWpWJoUM2sY',  'Building a Team', 'MLT'),
-    31: ('-plkSUnqFEA',  'Conflict Resolution Part 1', 'MLT'),
+    31: ('sOPaZdfeXag',  'Conflict Resolution Part 1', 'MLT'),
     32: ('5CynIkGiby4',  'Conflict Resolution Part 2', 'MLT'),
     33: ('uKOxVATK0-4',  'Theology of Planning', 'MLT'),
     34: ('AK7gxWH62EU',  'Building Relationships', 'MLT'),

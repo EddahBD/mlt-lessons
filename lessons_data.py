@@ -21,7 +21,7 @@ LESSONS = {
     16: ('JjltQ0ESbvw',  'Humility and Honor', 'MLT'),
     17: ('ITeD1Slkr98',  'Task Completed', 'MLT'),
     18: ('8FXd6layaFU',  'Vision 1', 'MLT'),
-    19: ('aEog1gS76sw',  'Vision 2', 'MLT'),
+    19: ('F__pRgoitZk',  'Vision 2', 'MLT'),
     20: ('nRhAl9C2JNk',  'Vision 3', 'MLT'),
     21: ('BX81qiCyOyg',  'Cultivating Consistent Prayer', 'MLT'),
     22: ('f0USEWs8fDM',  'Preaching and Teaching', 'MLT'),
